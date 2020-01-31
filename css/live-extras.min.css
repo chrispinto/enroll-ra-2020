@@ -1,8 +1,8 @@
 .livespscc--1 .welcome{
 	position:relative;
 	height:100vh;
-	min-height:700px;
-	background:url(../images/backgrounds/IT_2500x1250.jpg) no-repeat center center fixed;
+	min-height:500px;
+	background:url(../images/backgrounds/IT_large.jpg) no-repeat center center fixed;
 	background-size:cover}
 	.livespscc--1 .welcome:before{
 		position:absolute;
