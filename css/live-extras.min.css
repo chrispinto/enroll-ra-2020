@@ -65,6 +65,10 @@
 	background-color:#ffffff;
 }
 
+div.video-container iframe{
+	margin-left: 0 !important;
+}
+
 div.logo p {
 	position:relative;
 	top: 20px;
