@@ -2,7 +2,7 @@
 	position:relative;
 	height:100vh;
 	min-height:700px;
-	background:url(../images/backgrounds/students_lg.jpg) no-repeat center center fixed;
+	background:url(../images/backgrounds/IT_2500x1250.jpg) no-repeat center center fixed;
 	background-size:cover}
 	.livespscc--1 .welcome:before{
 		position:absolute;
@@ -61,7 +61,7 @@
 	position:relative;
 	height:10vh;
 	min-height:400px;
-	background:url(../images/backgrounds/students_sm.jpg)no-repeat top center;
+	background:url(../images/backgrounds/IT_800x400.jpg)no-repeat top center;
 	background-color:#ffffff;
 }
 
